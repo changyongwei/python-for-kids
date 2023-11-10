@@ -1,0 +1,7 @@
+import collections
+
+Card = collections.namedtuple('card', ['rank', 'suit'])
+
+beer_card = Card('7', 'dimonds')
+
+print(beer_card)
