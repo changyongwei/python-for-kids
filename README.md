@@ -1,11 +1,11 @@
 # Table of Content
 
-# Introduction
-## Schedule
-## Course materials
+## Introduction
+     Schedule
+    Course materials
 
-# References
+## References
 
 
-# Contact
+## Contact
 
