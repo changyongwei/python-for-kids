@@ -1,8 +1,8 @@
 # Table of Content
 
 ## Introduction
-     Schedule
-    Course materials
+    - Schedule
+    - Course materials
 
 ## References
 
