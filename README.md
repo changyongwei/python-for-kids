@@ -3,11 +3,11 @@
   - [Schedule](#schedule)
   - [Topics](#topics)
   - [Course materials](#course-materials)
-  - [References](#references)
-  - [Contact](#contact)
+- [References](#references)
+- [Contact](#contact)
 
 # Introduction
-Welcome young coders to the exciting world of Python programming! Congratulations on completing the beginner level class—you've laid a solid foundation, and now it's time to embark on a new adventure in coding. In this course, we'll delve deeper into the language's capabilities, exploring more complex concepts and creative applications. Get ready to elevate your coding skills and unlock the power of Python as we embark on this journey together. Let the coding fun continue!
+Welcome young coders to the exciting world of Python programming! Congratulations on completing the beginner-level class—you've laid a solid foundation, and now it's time to embark on a new adventure in coding. In this course, we'll delve deeper into the language's capabilities, exploring more complex concepts and creative applications. Get ready to elevate your coding skills and unlock the power of Python as we embark on this journey together. Let the coding fun continue!
 ## Schedule
 - School Year 2024 - Saturday
 
